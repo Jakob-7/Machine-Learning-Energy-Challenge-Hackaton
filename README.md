@@ -108,6 +108,8 @@ Qualitative evaluation on unseen household data showed:
 
 ```text
 .
-├── final_model.ipynb      # Final training, validation, and inference pipeline
-├── data/                 # data description
-├── README.md             # Project documentation
+├── final_model.ipynb                  # Final training, validation, and inference pipeline
+├── submission_ensemble.csv            # final predictions
+├── README.md                          # Project documentation
+├── Innovaite_shooter_will_shoot.pdf   # Visualizations
+
