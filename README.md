@@ -111,5 +111,6 @@ Qualitative evaluation on unseen household data showed:
 ├── final_model.ipynb                  # Final training, validation, and inference pipeline
 ├── submission_ensemble.csv            # final predictions
 ├── README.md                          # Project documentation
+├── Innovaite Hackathon report.pdf     # Report
 ├── Innovaite_shooter_will_shoot.pdf   # Visualizations
 
